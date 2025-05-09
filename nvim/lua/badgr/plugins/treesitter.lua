@@ -15,7 +15,9 @@ return {
 				enable = true,
 			},
 			-- enable indentation
-			indent = { enable = true },
+			indent = {
+				enable = false,
+			},
 			-- enable autotagging (w/ nvim-ts-autotag plugin)
 			autotag = {
 				enable = true,
@@ -42,7 +44,11 @@ return {
 				"query",
 				"vimdoc",
 				"c",
+				"gdscript",
+				"godot_resource",
+				"gdshader",
 			},
+			auto_install = true,
 			incremental_selection = {
 				enable = true,
 				keymaps = {
