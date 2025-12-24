@@ -6,10 +6,10 @@ vim.g.mapleader = " "
 
 vim.opt.swapfile = false
 
-vim.keymap("n", "<c-k>", ":wincmd k<CR>")
-vim.keymap("n", "<c-j>", ":wincmd j<CR>")
-vim.keymap("n", "<c-h>", ":wincmd h<CR>")
-vim.keymap("n", "<c-l>", ":wincmd l<CR>")
+vim.keymap.set("n", "<c-k>", ":wincmd k<CR>")
+vim.keymap.set("n", "<c-j>", ":wincmd j<CR>")
+vim.keymap.set("n", "<c-h>", ":wincmd h<CR>")
+vim.keymap.set("n", "<c-l>", ":wincmd l<CR>")
 
 vim.keymap.set("n", "<leander>h", ":nohlsearch<CR>")
 vim.wo.number = true
