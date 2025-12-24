@@ -1,6 +1,7 @@
 return {
   {
     "williamboman/mason.nvim",
+    version = "^1.0.0",
     lazy = false,
     config = function()
       require("mason").setup()
@@ -8,6 +9,7 @@ return {
   },
   {
     "williamboman/mason-lspconfig.nvim",
+    version = "^1.0.0"
     lazy = false,
     opts = {
       auto_install = true,
@@ -27,11 +29,11 @@ return {
 
       local lspconfig = require("lspconfig")
 
-      lspconfig.tailwind.setup({
+      lspconfig.tailwindcss.setup({
         capabilities = capabilities
       })
       lspconfig.ruby_lsp.setup({
-        capabilities = capabilities
+        capabilities = capabilities,
       })
       lspconfig.lua_ls.setup({
         capabilities = capabilities
@@ -42,7 +44,7 @@ return {
       vim.keymap.set("n", "<leader>gr", vim.lsp.buf.references, {})
       vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})
       vim.keymap.set("n", "<leader>gf", vim.lsp.buf.format, {})
-      vim.keymap.set("n", "<space>rn", vim.lsp.buf.rename, {})
+      vim.keymap.set('n', '<space>rn', vim.lsp.buf.rename, {})
     end,
   },
 }
