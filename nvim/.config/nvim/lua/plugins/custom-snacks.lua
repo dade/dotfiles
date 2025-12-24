@@ -1,11 +1,11 @@
 return {
   "folke/snacks.nvim",
-  priority = 1000,
-  lazy = false,
   opts = {
-    bigfile = { enabled = true },
-    dashboard = { enabled = true,
-    preset = {
+    --#region dashboard
+    dashboard = {
+      enabled = true,
+      lazy = false,
+      preset = {
         header = [[
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠤⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠏⠀⣀⠈⠙⠒⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠒⠋⠁⣀⠀⠹⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -31,20 +31,9 @@ return {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⢻⡿⣫⠉⠛⠻⠿⠿⠿⣿⣷⣴⣿⣿⣿⣿⠿⠿⠿⠟⠛⠋⣝⢿⡟⠀⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠈⠈⢁⡠⠖⠒⠤⠤⣄⣀⣀⣀⣀⣀⣀⣀⣠⠤⠤⠒⠲⢄⡈⠁⠁⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠒⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ]]
-      }
+        ]],
+      },
     },
-    explorer = { enabled = true },
-    indent = { enabled = true },
-    input = { enabled = true },
-    git = { enabled = true },
-    picker = { enabled = true },
-    notifier = { enabled = true },
-    scope = { enabled = true },
-    quickfile = { enabled = true },
-    scroll = { enabled = true },
-    statusline = { enabled = true },
-    statuscolumn = { enabled = true },
-    words = { enabled = true }
-  } 
+    --#endregion dashboard
+  },
 }
