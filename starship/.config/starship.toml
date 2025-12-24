@@ -1,6 +1,6 @@
 "$schema" = "https://starship.rs/config-schema.json"
 
-formnat = """
+format = """
 [](surface0)\
 $os\
 $username\
