@@ -86,5 +86,25 @@ return {
       },
     },
     --#endregion dashboard
+
+    --#region picker
+    picker = {
+      enabled = true,
+      prompt = "=> ",
+      focus = "input",
+      auto_close = true,
+      hidden = true,
+      sources = {
+        files = {
+          hidden = true,
+          ignored = false,
+        },
+        grep = {
+          hidden = true,
+          ignored = false,
+        },
+      },
+    },
+    --#endregion picker
   },
 }
