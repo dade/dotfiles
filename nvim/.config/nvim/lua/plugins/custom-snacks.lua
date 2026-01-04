@@ -87,6 +87,14 @@ return {
     },
     --#endregion dashboard
 
+    --#region indent
+    indent = {
+      enabled = true,
+      priority = 2,
+      only_scope = true,
+    },
+    --#endregion indent
+
     --#region picker
     picker = {
       enabled = true,
@@ -95,6 +103,9 @@ return {
       auto_close = true,
       hidden = true,
       sources = {
+        explorer = {
+          follow_file = true,
+        },
         files = {
           hidden = true,
           ignored = false,
