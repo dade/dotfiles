@@ -1,0 +1,13 @@
+#:schema https://github.com/joshmedeski/sesh/raw/main/sesh.schema.json
+cache = false
+
+[[session]]
+name = "tmuxconf"
+path = "~/Documents/programming/dotfiles/tmux/.config/tmux"
+startup_command = "nvim tmux.conf"
+preview_command = "bat --color=always ~/Documents/programming/dotfiles/tmux/.config/tmux/tmux.conf"
+
+[[session]]
+name = "nvimconf"
+path = "~/Documents/programming/dotfiles/nvim/.config/nvim/lua/"
+startup_command = "nvim"

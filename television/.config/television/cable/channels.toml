@@ -1,0 +1,14 @@
+[metadata]
+name = "channels"
+description = "A channel to find and select other channels"
+
+[source]
+command = ["tv list-channels"]
+
+[keybindings]
+enter = "actions:channel-enter"
+
+[actions.channel-enter]
+description = "Switch to a channel"
+command = "tv {}"
+mode = "execute"

@@ -1,0 +1,1564 @@
+yazi
+stow -S nushell -t ~/
+stow -S nushell -t ~/ --adopt
+clear
+v tmux
+exit
+sesh connect dotfiles
+tmux config
+sesh connect
+sesh
+sesh last
+clear
+sesh --help
+sesh root
+tmux config
+exit
+sesh picker
+clear
+v tmux
+stow -S sesh -t ~/
+sesh picker
+clear
+sesh picker
+eza --all --git --icons --color=always /home/badgr/Documents/programming/dotfiles
+v sesh
+exit
+sesh connect dotfiles
+bat
+sesh connect dotfiles
+v .
+v tmux
+exit
+ls ~/Documents/programming/dotfiles/tmux/.config/tmux/
+exit
+v sesh
+exit
+sesh connect dotfiles
+v sesh
+bat --color=always ~/Documents/programming/dotfiles/tmux/.config/tmux/tmux.conf
+v sesh
+nvim tmux.conf
+sesh tmuxconf
+v tmux
+exit
+v tmux
+tmux
+tv sesyh
+tv sesh
+sesh dotfiles
+v tmux
+sesh connect dotfiles
+tv sesh
+v sesh
+tv sesh
+exit
+sesh connect dotfiles
+nvim .
+exit
+tv sesh
+exit
+v .
+ssh-main
+git remote add origin git@github.com:dade/xf2e-ammo.git
+git branch -M main
+git push -u origin main
+git init
+gadd .
+gm "initial commit before rewriting local project"
+gc "initial commit before local rewriter"
+git branch -M main
+gp
+git push -u origin main
+git remote add origin git@github.com/dade/xf2e-ammo.git
+gp
+gadd .
+gc "initial commit before local rewrite"
+gp
+git remote add origin git@github.com:dade/xf2e-ammo.git
+git push -u origin main
+v .
+ls -a
+rm -rf .git
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin git@github.com:dade/xf2e-ammo.git
+gp
+v .
+gadd .
+gc "new item compendium"
+gp
+clear
+sesh connect ~/.local/share/FVTT13/Data/modules/xf2e-ammo/
+tv sesh
+v .
+eza
+la
+v .
+tv
+c
+z dotfiles
+pwd
+z nvim
+z
+z fvtt14
+eza
+z
+clear
+z dotfiles
+v .
+exit
+z fvtt14
+fvtt launch
+clear
+paru -S ripgrep
+rg fast README.md
+exa
+eza
+clear
+la
+clear
+rg
+ls
+l
+la
+clear
+ls
+rg logs
+clear
+rg fast readme | tv
+rg fast logs | tv
+rg 'fn write\('
+clear
+df
+nnn
+clear
+gr
+rg
+rg --help
+rg --files
+rg --files | tv
+rg --help
+rg --files xf2e | tv
+rg --files xf2e*
+rg xf2e --files
+rg --filse
+rg --files
+rg 'xf2e' --files
+rg --help
+exit
+cwd
+pwd
+fvtt --help
+fvtt --help configure
+clear
+paru -S nvim
+paru -S neovim
+paru -S neovim-git
+sudo pacman -S neovim-git
+nvim
+nvim --version
+paru -S neovim
+paru -S neovim-git
+ssh-main
+paru -S neovim-git
+clear
+fvtt launch
+exit
+z dotfiles/nvim
+z ..
+z nvim
+v .
+v .
+exit
+z nvim
+v .
+exit
+v .
+exit
+sesh connect xf2e-ammo
+exit
+paru -S opencode
+paru -S nvim-git
+paru -S neovim-git
+clear
+sudo pacman -Syyu
+sudo pacman -S neovim-git
+ssh-main
+paru -S opencode
+clear
+z xf2e
+v .
+v --version
+v -V1 -v
+clear
+z
+clar
+opencod
+opencode
+z xf2e-reputation
+z ~/Documents/programming/fvtt-modules/xf2e-rep/
+v .
+la
+nautilus .
+clear
+yazi .
+fvtt --help configure
+fvtt configure path
+fvtt configure get "dataPath"
+fvtt configure get "appPath"
+fvtt configure get
+clear
+fvtt configure get "dataPath"
+fvtt configure
+fvtt configure path
+v /home/badgr/.local/share/.fvttrc.yml
+fvtt launch
+v /home/badgr/.local/share/.fvttrc.yml
+exit
+sesh connect .
+exit
+z xf2e-rep
+z xf2e-ammo
+v.
+v .
+exit
+v .
+cd .
+ls
+yazi
+la
+cd ..
+la
+z
+z ~/.local/share/FVTT13/Data/modules/xf2e-rep
+fvtt launch
+v .
+fvtt launch
+v.
+v .
+z xf2e-ammo
+v .
+exit
+z xf2e-rep
+z
+z ~/.local/share/FVTT13/Data/modules/xf2e-rep
+opencode -c
+clear
+v .
+z ..
+codex
+clear
+v .
+z xf2e-rep
+ls
+z ..
+la
+mkdir xf2e-rep-tracker;cd xf2e-rep-tracker
+z xf2e-rep
+v .
+z xf2e-rep
+v .
+exit
+v .
+exit
+sesh connect .
+exit
+fvtt launch
+fvtt configure
+fvtt configure path
+v /home/badgr/.local/share/.fvttrc.yml
+fvtt launch
+exit!
+exit
+exit
+sesh connect foundryvtt/
+exit
+fvtt launch
+clear
+fvtt launch
+z fvtt14
+v .
+z
+z foundryvtt
+ls
+v .
+clear
+codex
+sudo npm -g @openai/codex
+sudo npm i -g @openai/codex
+codex
+clear
+z Documents/programming/
+la
+eza -a
+mkdir tui-apps;cd tui-apps
+z key-mailer-proto/
+cargo run
+tv
+cargo run
+codex
+fvtt launch
+btop
+exit
+z ratatui
+z Documents/programming/ratatui-projects/ratatui-counter-app/
+z
+z ratatui-counter-app
+cargo run
+la
+z ..
+la
+z tui-apps
+la
+z key-mailer-proto/
+ls
+clear
+cargo run
+clear
+z
+clar
+clear
+exit
+exit
+sesh connect .
+exit
+paru -S godot
+z godot/test-terminal-game/
+codex
+clear
+z
+exit
+codex
+exit
+v .
+exit
+sesh connect xf2e-ammo
+exit
+z godot/test-terminal-game/
+z ..
+la
+mkdir terminally-online;cd terminally-online
+coddx
+z terminally-online
+v .
+config nu
+exi
+exit
+clear
+config nu
+exit
+clear
+cl
+c
+config nu
+cc
+config nu
+exit
+cc
+c
+clear
+c
+cargo run
+clear
+c
+cargo run
+c
+cargo run
+cc
+c
+v .
+c
+codex
+exit
+sesh connect .
+exit
+z
+exit
+z .local/share/FVTT13/Data/modules/pf2e-vessaya
+v .
+codex
+exit
+yazi .
+exit
+sesh connect .
+exit
+flatpak update
+flatpak update VintageStory.Unstable
+flatpak update VintageStory
+flathub update
+flatpak --help update
+flatpak update --app VintageStory.Ustable
+flatpak update --app VintageStory.Unstable
+flatpak update --app VintageStory
+flatpak --help update
+flatpak --help
+flatpak list
+flatpak uninstall at.vintagestory.VintageStory
+flatpak list
+flatpak update at.vintagestory.VintageStory.Unstable
+exit
+btop
+steam
+flatpak update at.vintagestory.VintageStory.Unstable
+yazi
+ln -s .xlcore/ffxivConfig/FFXIV_CHR004000174C13D841/ ~/Documents/gunne
+yazi
+ln -s /home/badgr/.xlcore/ffxivConfig/FFXIV_CHR004000174C13D841/ ~/Documents/gunne
+yazi
+exit
+yazi
+exit
+z hyrpland
+z .config/hypr
+la
+v .
+exit
+z hypr
+v .
+exit
+paru -S melonds
+clear
+c
+z pf2e-vessaya
+config nu
+sesh --help
+config nu
+sesh last
+sc .
+source ~/.config/nushell/config.nu
+sc
+z ..
+la
+z fvtt14
+la
+cd Data/modules/
+la
+mkdir xf2e-vessaya; cd xf2e-vessaya
+ls
+la
+c
+v .
+z ..
+rm -rf xf2e-vessaya/
+v .
+gadd
+gadd .
+gc "minor optimizations"
+gp
+ssh-meain
+ssh-main
+gp
+git clone https://github.com/dade/pf2e-vessaya
+ssh-main
+git clone https://github.com/dade/pf2e-vessaya
+la
+z ..
+la
+mkdir xf2e-ammo;cd xf2e-ammo
+z xf2e-ammo
+v .
+exit
+v .
+exit
+sc .
+exit
+z hypr
+ls
+v .
+exit
+z hypr
+v .
+exit
+background
+job list
+job unfreeze 1
+v .
+exit
+z pf2e-vessaya
+pwd
+z fvtt14/data
+z modules/pf2e-vessaya/
+v .
+c
+v .
+exit
+codex
+x
+c
+clear
+exit
+sc .
+exit
+nmap
+exit
+z pf2e-vessaya
+pwd
+z fvtt14/data
+z fvtt14/data/modules/pf2e-vessaya
+c
+codex
+exit
+v .
+exit
+sc .
+exit
+z `Documents/obsidian.md/FFXIV Vault/`
+exit
+z `ffxiv value`
+z ffxiv vault
+la
+c
+v .obsidian
+exit
+z .obsidian/snippets/
+sudo yazi
+exit
+yazi /usr/local/share/fonts
+exit
+v .
+exit
+opencode
+exit
+sesh connect ffxiv vault
+exit
+z snippets
+la
+z .
+z ..
+la
+exit
+paru -S discordo-git
+discordo
+exit
+paru -S superfile
+psf
+spf
+la .config/superfile/
+v .config/superfile
+spf
+clear
+c
+spf
+lazygit
+z fvtt14/data/modules/pf2e-vessaya
+lg
+z
+fzf
+c
+exit
+z superfile
+z .config/superfile/
+v .
+exit
+spf
+exit
+spf
+exit
+paru -S duckstation
+paru -S duckstation-git
+ssh-main
+paru -S duckstation-git
+duckstation
+paru -S duckstation
+spf
+exit
+z fvtt14/data/modules/pf2e-vessaya
+la
+v .
+exit
+sc .
+exit
+paru -S nchat-git
+ssh-main
+paru -S nchat-git
+paru -S nchat
+yay -S nchat-git
+exit
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv
+clear
+uv install --python 3.13 bagels
+uv tool install --python 3.13 bagels
+bagels 
+cx
+c
+exit
+sc
+z pf2e-vessaya
+pwd
+z fvtt13/data/modules/pf2e-vessaya
+v .
+lazygit
+git branch
+v .
+z pf2e-vessaya
+pwd
+fvtt configure
+fvtt configure path
+v .local/share/.fvttrc.yml
+fvtt launch
+v .local/share/.fvttrc.yml
+exit
+v .
+exit
+sc .
+exit
+z hypr
+fzf .desktop
+fzf
+ls
+z Desktop/
+ls
+steam.desktop
+v .
+exit
+spf
+paru -S chronicler
+paru -S chronicler-pro
+paru -S chroniclerpro
+paru -S chronicler.pro
+c
+discordo
+spf
+fzf
+v .config/yazelix/.devenv/profile/share/applications/yazi.desktop
+exit
+paru -S easyeffects
+paru -Syyu
+paru -S nchat
+exit
+nchat
+exit
+nchat
+nchat --help
+nchat --setup
+exit
+paru -S easyeffects
+easyeffect
+easyeffects
+exit
+pipewire
+paru -S ripgrep
+rg --help
+rg --count
+rg -c *.desktop
+rg -c .desktop
+rg -i rust
+rg -c rust
+rg -c discord.desktop
+clear
+c
+exit
+sc .
+exit
+paru -S aptui
+paru -S archtui
+paru -S arch-tui
+y
+clear
+c
+paru -S arch-tui
+arch tui
+archtui
+arch-tui
+paru -Q
+paru -Qe
+paru -Qe | tv
+paru -Qe | fzf
+paru -Qe | tv
+paru -S pacsea
+pacsea
+sudo pacman -Syyu
+npm i -g gar
+npm i -g npmcli
+npm i -g npm
+sudo npm i -g npm
+sudo npm i -g npmcli
+c
+paru -Syyu
+paru -Qo /usr/lib/node_modules/npm/node_modules/@gar/promise-retry/lib/retry.js
+mv /usr/lib/node_modules/npm/node_modules/@gar/promise-retry/lib/retry.js /usr/lib/node_modules/npm/node_modules/@gar/promise-retry/lib/retry_backup.js
+sudo mv /usr/lib/node_modules/npm/node_modules/@gar/promise-retry/lib/retry.js /usr/lib/node_modules/npm/node_modules/@gar/promise-retry/lib/retry_backup.js
+sudo mv /usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/isolated-classes.js /usr/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/isolated-classes_backup.js
+paru -Syyu
+arch-tui
+pacsea
+exit
+z ~/HyDE/
+git pull origin master
+ssh-main
+git pull origin master
+./install.sh
+fish
+bash
+fish
+c
+la
+fish
+./Scripts/install.sh -r
+z .config/hypr/workflows/
+la
+v .
+config nu
+nvim
+z ~/.config/
+la
+edit nvim
+nano nvim
+v nvim/
+z dotfiles
+ls
+c
+la
+stow -D nvim
+v .
+stow -S nvim
+la .config/
+la ~/.config
+stow -D nvim
+la ~/.config
+stow -D nvim
+la ~/.config
+rm -rf ~/.config/nvim
+v
+stow -S nvim
+la ~/.config
+stow nvim
+la ~/.config
+v
+ls
+la
+la nvim
+stow --version
+stow nvim
+sudo stow nvim
+la ~/.config
+z dotfiles
+stow nvim
+stow -S nvim
+la ~/.config
+la ~/
+la
+la ../
+stow -D nvim
+la ../
+stow nvim ~/
+tldr stow
+tldr nvim --target ~/
+stow nvim --target ~/
+la ~/.config
+v
+ls ~/.local/share/nvim/
+rm -rf ~/.local/share/nvim
+v
+ls /usr/bin/nvim
+ls /usr/bin/
+ls /usr/bin/ | tv
+v
+nvim --version
+pacsea
+v
+nvim
+paru -D neovim
+paru -S neovim
+paru -D neovim-git
+paru -S neovim
+paru -D neovim
+neovim
+nvim
+clear
+c
+paru -S neovim
+paru -S neovim-git
+paru -R neovim
+paru -R nvim
+nvim
+paru -R neovim-git
+v -V
+paru -S neovim-git
+nvim
+v
+fzf libtree-sitter.so
+fzf
+find libtree-sitter.so
+find
+c
+rg libtree-sitter.so
+grep --help
+grep -F libtree-sitter.so
+c
+v
+paru -S libtree-sitter
+paru -S libtree
+paru -S libtree-bin
+v
+/usr/bin/nvim
+v
+find --v
+fish
+v
+fish
+paru -S libtree
+v
+paru -S libtree*
+pacsea
+paru -R libtree
+paru -R libtree-git
+paru -R libtree-bin
+paru -S libtree
+v
+v --V
+nvim
+paru -S neovim
+v
+c
+z dotfiles
+v .
+exit
+v .
+c
+paru -R neovim-git
+paru -R neovim
+paru -R nvim
+nvim --version
+c
+nvim -V -v
+v
+paru -R neovim
+paru -S neovim-git
+v
+paru -S neovim
+flatpak install Neovim.Neovim
+flatpak --help
+flatpak list
+flatpak --help
+flatpak search neovim
+flatpak install io.neovim.nvim
+v
+v --V
+paru -R tree-sitter
+c
+paru -R tree-sitter
+paru -S tree-sitter
+v
+sudo ldconfig
+v
+flatpak uninstall io.neovim.nvim
+v
+paru -R neovim
+paru -R neovim-git
+fish
+c
+scoop
+winget install Neovim.Neovim
+choco install neovim
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.tar.gz
+sudo tar -C /opt -xzf nvim-linux-x86_64.tar.gz
+vim ~/.config/nushell/config.nu
+vim ~/.config/nushell/env.nu
+nvim
+paru -R neovim
+paru -R neovim-git
+paru -S neovim
+nvim
+v --V
+la
+c
+nvim --V
+nvim --version
+nvim
+z dotfiels
+z dotfiles
+stow -D nvim
+la ~/.config
+rm -rf ~/.config/nvim
+nvim
+mv ~/.config/nvim_bak ~/.config/nvim
+nvim
+nvim .
+mv ~/.config/nvim ~/.config/nvim_bak
+nvim .
+z dotfiles
+stow nvim --target ~/
+nvim
+stow -D nvim
+rm -rf ~/.config/nvim
+rm -rf ~/.local/share/nvim
+nvim
+pacsea
+nvim --version
+nvim
+config nu
+config env
+nvim
+vim
+nvim
+paru -S neovim-git
+vim ~/.config/nushell/env.nul
+vim ~/.config/nushell/env.nu
+vim
+nvim
+omarchy
+fish
+nvim
+$env.path
+nvim-linux
+nvim
+paru -S tree-sitter-cli
+v
+nvim
+clear
+c
+nvim
+la ~/.config
+c
+rm -rf ~/.local/share/nvim
+sudo pacman -S neovim
+z dotfiles
+stow nvim --target ~/
+nvim
+la /usr/share/nvim/
+sudo pacman -Fy /usr/share/nvim
+nvim
+la ~/.config
+stow -D nvim
+rm -rf ~/.config/nvim
+rm -rf ~/.local/share/nvim
+nvim
+python-updater
+lua
+yarn global add neovim
+npm i -g neovim
+sudo npm i -g neovim
+nvim
+v
+v -V
+v --version
+clear
+nvim
+pacman search jetbrains
+paru --help
+pacman list
+paru -S jetbrains
+nvim
+paru -S neovim-git
+v
+chmod +x /opt/nvim-linux-x86_64/bin/nvim
+sudo chmod +x /opt/nvim-linux-x86_64/bin/nvim
+/opt/nvim-linux-x86_64/bin/
+/opt/nvim-linux-x86_64/bin/nvim
+nvim
+v
+z dotfiles
+n .
+v .
+config env
+vim ~/.config/nushell/env.nu
+c
+vim
+nvim
+bash
+$env.path
+c
+nvim
+la .local/
+vim ~/.local/bin/env
+la ~/.local/share/nvim/
+env
+env | tv
+la ~/.local/bin/
+which nvim
+la /usr/bin/nvim
+cd /usr/bin/nvim
+cd /usr/bin/
+ls
+la
+fzf
+la /opt/nvim-linux-x86_64/
+la /opt/nvim-linux-x86_64/bin.
+la /opt/nvim-linux-x86_64/bin/
+spf
+yazi
+fish
+nvim
+vim ~/.local/bin/env
+vim ~/.config/nushell/env.nu
+mv /usr/bin/nvim /usr/bin/nvim_backup
+sudo mv /usr/bin/nvim /usr/bin/nvim_backup
+nvim
+z dotfiles
+stow nvim --target ~/
+nvim
+x
+c
+ssh-main
+nvim
+vim ~/.config/nushell/env.nu
+exit
+z pf2e-vessaya
+pwd
+v .
+exit
+z .config/hypr
+env HYPRLAND_CONFIG
+$env.HYPRLAND_CONFIG
+z /home/badgr/.local/share/hypr/hyprland.conf
+z /home/badgr/.local/share/hypr/
+v .
+exit
+v .
+exi
+exit
+pipewire
+wiremix
+z .config/waybar
+v .
+z hyde
+v .
+z /home/badgr/.local/share/hypr/
+v .
+wiremix
+exit
+config nu
+config env
+exit
+config nu
+exit
+sc .
+z .config/hypr
+browser
+explorer
+v .
+exit
+v ~/.config/dunst/dunst.conf
+v ~/.config/hyde/config.toml
+v ~/.config/hypr/
+paru -S nwg-look
+z hypr
+v .
+exit
+z hypr
+z /usr/share/applications/
+la
+v .
+fzf
+discord
+z
+fzf
+fzf find
+fzf
+fzf --help
+fzf | tv
+c
+clear
+c
+tv
+z
+fzf | tv
+fzf
+rg -F Discord.desktop
+c
+fzf
+exit
+z
+tv
+z Downloads/discord-0.0.119/Discord/
+v .
+discor
+discord
+/usr/bin/discord
+v /usr/bin
+c
+v .
+/usr/share/
+ls
+v .
+ls
+c
+z hypr
+v .
+z ~/.config/hpyr
+z ~/.config/hypr
+v .
+z ~/Downloads/
+la
+mv discord-0.0.119/ discord/
+ls
+cd discord/Discord/
+la
+z
+Downloads/discord/Discord/Discord
+v .
+which discord
+c
+discord
+c
+/bin/bash /app/bin/com.discordapp.Discord
+ls /usr/bin | tv
+la ~/.local/bin
+la ~/.local/share/applications/
+la ~/.local/share/applications/ | tv
+btop
+v .
+xdg-open
+v ~/.local/share/applications/discord-1341087485052063764.desktop
+rofi
+rofi show
+rofi run
+rofi window
+rofi -show
+rofi -show drun
+ls / | grep discord
+c
+rofi
+rofi -show window
+rofi -show ssh
+rofi -show
+rofi
+rofi -show run
+/home/badgr/.var/app/
+v .
+which rofi
+rofi -show drun
+rofi -show run discord
+rofi -show drun discord
+xdg-open steam://rungameid/3516150
+z /home/badgr/.var/app/
+ls
+v .
+c
+^(discord)$
+c
+btop
+z ~/.local/share/flatpak/exports/bin
+la
+z hypr
+v .
+exit
+v .
+exit
+clear
+c
+exit
+sc .
+sesh --help
+v .config/sesh/sesh.toml
+v .config/tmux
+v .
+exit
+exit
+sc .
+exit
+spf
+exit
+sc .
+v .config/tmux
+v .config/sesh
+v .config/tmux
+z dotfiles
+v .config/tmux
+v ../.config/tmux
+v ~/.config/tmux
+exit
+exit
+v ~/.config/tmux
+exit
+sc .
+exit
+z pf2e-vessaya
+pwd
+foundryvtt
+fvtt launch
+z ../../../
+la
+z Data/worlds/
+ls
+la
+c
+spf
+c
+fvtt launch
+spf
+z ../modules/pf2e-vessaya
+sc foundryvtt/
+exit
+sesh --list
+sesh
+sesh list
+sc
+exit
+sc .
+exit
+sesh --help
+sesh list
+sesh --help
+sesh picker
+v .
+exit
+fvtt launch
+exit
+exit
+sesh connect 1
+sesh picker
+exit
+tmux
+tmux --help
+exit
+sesh picker
+exit
+eilmeldung
+exit
+paru -S eilmeldung
+eilmeldung
+exit
+z fvtt13/data/modules/pf2e-vessaya
+git branch
+git checkout main
+v .
+lazy git
+ssh-main
+lazygit
+v .
+pwd
+git status
+lazygit
+v .
+z fvtt14/data/modules/pf2e-vessaya
+pwd
+z ..
+rm -rf pf2e-vessaya
+git clone https://github.com/dade/pf2e-vessaya
+z pf2e-vessaya/
+v .
+git branc
+git branch
+lazygit
+fvtt launch
+v .
+opencode
+exit
+opencode -c
+exit
+v .
+exit
+z pf2e-vessaya
+pwd
+git branch
+v .
+opencode -c
+eixt
+exit
+opencode
+opencode -c
+opencode --list
+opencode session
+opencode session list
+opencode -s ses_2b6b8ecafffeW2P4mINt7w5b5s
+z pf2e-vessaya
+v .
+z pf2e-vessaya
+pwd
+c
+lessc styles/main.less styles/main.css
+exit
+opencode -c
+exit
+v .
+lazygit
+ssh-main
+lazygit
+v .
+git checkout v14
+v .
+exit
+fvtt launch
+eit
+exit
+sc .
+exit
+z godot/
+opencode
+exit
+cd first-rpg/
+v .
+exit
+opencode -c
+exit
+sc .
+exit
+z pf2e-vessaya
+fvtt launch
+qqqqq
+q
+c
+exit
+z pf2e-vessaya
+sessh connect last
+sesh connect last
+sesh connect list
+sesh session list
+z pf2e-vessaya
+v. 
+c
+v .
+exit
+fvtt launch
+exit
+sesh picker
+exit
+fvtt launch
+exit
+sc .
+exit
+z dotfiles
+z nvim
+v .
+exit
+v .
+/usr/bin/nvim
+v .
+vim .
+v .
+ssh-main
+v .
+nvim
+v .
+v
+nvim
+exit
+z nvim
+v .
+ssh-main
+v .
+v
+v .
+v
+nvim
+v .
+v
+v .
+nvim
+v
+c
+v .
+v
+z .
+z
+nvim
+/opt/nvim-linux-x86_64/bin/nvim
+z pf2e-vessaya
+sc .
+v .
+nvim ~/Documents/programming/dotfiles/nvim
+nvim ~/Documents/programming/dotfiles/
+v .
+exit
+fvtt launch
+exit
+eilmeldung
+exit
+pacsea
+c
+z fvtt14/data/modules/xf2e-ammo
+fvtt launch
+z pf2e-vessaya
+v .
+exit
+fvtt launch
+z fvtt13/data/modules
+la
+v sf2e-anachronism/
+exit
+fvtt launch
+fvtt launc
+fvtt launch
+v .
+exit
+fvtt launch
+open code
+opencode
+exit
+fvtt launch
+opencode
+opencode -c
+exit
+v .
+lazygit
+ssh-main
+lazygit
+spf
+fvtt launch
+lazygit
+v .
+lazygit
+pwd
+v .
+lazygit
+ext
+exit
+exit
+sc .
+exit
+par -S logseq
+paru -S logseq
+paru -S appimagelauncher
+appimagelauncher
+paru -S appimagelauncher
+appimagelauncher
+z Documents/programming
+la
+shh-main
+ssh-main
+git clone https://github.com/dade/dade.github.io
+z dade.github.io/
+v .
+z dotfiles
+v nivm
+exit
+nvim
+z dotfiles/nvim
+v .
+v.
+v .
+nvim --listen 127.0.0.1:6006
+c
+v .
+z ~/godot/first-rpg/
+v .
+exit
+nvim
+pip3 install neovim-remote
+pip install neovim-remote
+fish
+python --version
+pip
+bash
+c
+paru -S pip3
+paru -S pip
+paru -S python-pip3
+paru -S python-pip
+pip install neovim-remote
+paru -S python-neovim-remote
+paru -S neovim-remote
+nvr
+touch ~/.local/bin/godotdev.sh
+v ~/.local/bin/godotdev.sh
+chmod +x ~/.local/bin/godotdev
+chmod +x ~/.local/bin/godotdev.sh
+touch ~/.local/bin/godot-nvr.sh;v ~/.local/bin/godot-nvr.sh
+chmod +x ~/.local/bin/godot-nvr.sh
+v .
+godotdev
+.local/bin/godotdev.sh
+.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+z dotfiles
+vv .
+v nvim
+v ~/.local/bin/godotdev.sh
+v nvim
+v .
+.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+z
+.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+v .local/bin/godot-nvr.sh
+v .local/bin/godotdev.sh
+v
+.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+v .
+v
+z first-rpg
+ls
+c
+v
+~/.local/bin/godot-nvr.sh
+~/.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+z dotfiles/nvim
+v .
+~/.local/bin/godot-nvr.sh ~/godot/first-rpg/scripts/first_level.gd
+v
+v .
+~/.local/bin/godot-nvr.sh
+~/.local/bin/godotdev.sh
+godotdev.sh
+godot
+gddev
+config nu
+source ~/.config/nushell/config.nu
+slast
+gddev
+z first-rpg
+gddev
+z dade.github.io
+v .
+v nvim
+z nvim
+v .
+z dade.github.io
+v .
+gddev
+v .
+cargo install feedr
+config env
+feedr
+source ~/.config/nushell/config.env
+feedr
+exit
+nvim .
+z dotfiles/nvim/
+z dotfiles/nvim
+nvim .
+nvim
+v .
+v
+z .config
+v .
+gddev
+nvim .
+v
+v .
+v
+v .
+c
+v .
+v
+ssh-main
+v
+nvim .
+z nvim
+la
+nvim .
+v
+v .
+c
+v .
+v
+v .
+c
+v .
+v
+z
+v
+c
+meilendung
+eilmeldung
+feedr
+c
+v
+z dotfiles/nvim/.config/nvim
+z
+z nvim
+v
+z
+nvim
+c
+z nvim/.config/nvim
+nvim
+config nu
+nvim
+nvim .
+nvim
+c
