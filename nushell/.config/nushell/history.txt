@@ -1562,3 +1562,339 @@ nvim
 nvim .
 nvim
 c
+nvim
+exit
+z dade.github.io
+nvim
+ssh-main
+lazygit
+z documents/programming
+pwd
+c
+la
+mkdir node;cd node
+godot;gddev
+c
+sudo npm i -g yarn
+yarn create astro
+cd dade.github.io/
+npm run
+npm run start
+bluez
+paru -S bluez bluez-utils pulseaudi-bluetooth
+paru -S bluez bluez-utils pulseaudio-bluetooth
+bluez
+paru -S bluez bluez-utils
+sudo sysmtemctl enable --now bluetooth
+sudo systemctl enable --now bluetooth
+bluetoothctl
+exit
+z Documents/programming/dade.github.io/
+z dade.github.io
+npm run dev
+npm run
+yarn run
+pwd
+yarn run start
+yarn run docs:dev
+yarn run
+npm run dev
+v .
+nvim
+cwd
+pwd
+z ..
+la
+z node
+la
+z dade.github.io/
+z node/dade.github.io
+nvim 
+yarn run start
+z ..
+rm -rf dade.github.io/
+z ..
+z
+z node
+c
+yarn create astro
+z dade.github.io/
+yarn run start
+yarn run
+z dade.github.io/
+nvim 
+z ..
+yarn run dev
+z ..
+rm -rf dade.github.io/
+yarn create astro
+z dade.github.io/
+z dade.github.io/
+yarn run start
+nvim
+z tmux
+la
+nvim
+sc .
+sc last
+sc list
+sc
+sc --hel
+sc --help
+sesh last
+sesh connect last
+sesh list
+sesh --help
+nvim tmux.conf
+z tmux
+nvim
+sesh picker
+exit
+sesh connect last
+z sesh
+z .config/sesh
+nvim
+z tmux
+nvim
+sesh last
+sesh connect
+sesh last
+exit
+sesh connect .
+nvim
+sesh coonect .
+exxit
+exit
+sesh connect .
+nvim
+sesh connect
+exit
+exit
+exit
+sesh connect .
+exit
+z dade.git
+pwd
+z ..
+rm -rf dade.github.io/
+z node/dade.github.io
+z
+z dade.github
+sesh connect .
+sesh picker
+c
+z dade.github
+yarn run start
+nvim
+yarn run start
+exit
+fastfetch
+exit
+z nvim/.config/nvim
+nvim
+ssh-main
+nvim
+c
+fastfetch
+neofetch
+c
+fastfetch
+c
+fastfetch
+exit
+sc .
+c
+exit
+c
+sc .
+exit
+exit
+sc .
+exit
+c
+sc .
+sc last
+sesh last
+exit
+exit
+exit
+sesh connect .
+c
+sc .
+exit
+nvim config_path
+c
+spf
+c
+spf
+hyprshot
+paru -S hyprshot
+hyprshot
+z hypr
+ls
+la
+la ~/.config/
+z ~/.config/hypr
+nvim
+exit
+z hypr
+nvim
+z hypr
+nvim
+la
+pwd
+exit
+nvim
+z hypr
+nivm
+z ../waybar
+z waybar
+z waybar | tv
+z ~/.config/waybar
+nvim
+exit
+nvim
+exit
+sc .
+exit
+z ~/.config/waybar
+z waybar
+opencode
+paru -S opencode
+opencode
+exit
+nvim
+exit
+nvim
+z waybar
+z ../hyde/
+ls
+nvim
+exitr
+exit
+opencode
+exit
+nvim
+exit
+sc .
+exit
+Hyde theme patch
+hyde
+c
+hyde-shell theme.import --select
+hyde-shell theme import --name "Green Lush"
+hyde-shell wallpaper -S
+hydectl theme set "Green Lush"
+hyde-shell theme import --name "Rain Dark" --url "https://github.com/rishav12s/Rain-Dark"
+hyde-shell theme.import
+hyde-shell theme.import --select
+hyde-shell theme.import "Rain Dark"
+hyde-shell theme.import
+hyde-shell theme.import --fetch "Rain Dark"
+exit
+z waybar
+ls
+z
+z hyde
+la
+nvim
+nvim
+z hyde
+nvim
+z themes/Transistor/
+spf
+exit
+nvim
+exit
+sc .
+exit
+z nvim
+nvim
+exit
+z nvim
+nvim
+exit
+paru -S sigmafilebrowser
+paru -S sigmafilemanager
+paru -S sfm
+paru -S sigma-file-manager
+sfm
+sigma
+z sigma
+paru -S sigma-file-manager
+sigma-file-manager
+sigma
+sfm
+c
+finder
+files
+nautilus
+c
+sig
+zx
+c
+sigma-file-manager
+fish
+c
+paru -R sigma-file-manager
+paru -S sigma-file-manager-git
+ssh-main
+paru -S sigma-file-manager-git
+paru -Syyu
+paru -S sigma-file-manager-git
+node -v
+sudo npm i -g npm
+paru -S sigma-file-manager-git
+spf
+sudo mv ~/Downloads/Sigma-File-Manager-2.0.0-beta.3-linux-binary /usr/bin/sfm
+sudo mv ~/Downloads/Sigma-File-Manager-2.0.0-beta.3-linux-binaryy /usr/bin/sfm
+sudo cp ~/Downloads/Sigma-File-Manager-2.0.0-beta.3-linux-binaryy /usr/bin/sfm
+sudo sfm
+sudo spf
+exit
+sigma-file-manager
+sfm
+sudo yazi
+z /usr/bin
+chmod +x sigma-file-manager
+sudo chmod +x sigma-file-manager
+sigma-file-manager
+sigma-file-manager 
+sudo rm sigma-file-manager
+exit
+z
+z | tv
+tv
+z chronicalerpro
+z .local/share/applications/
+la
+/usr/share/applications/
+la
+z Applications
+c
+tv
+z | tv
+exit
+z rofi
+la
+z ~/.config/rofi/
+nvim
+exi
+exit
+nvim
+exit
+sc .
+exit
+z hypr
+nvim
+/hypr
+z hypr
+paru -S toofan
+toofan
+c
+exit
+z nvim
+exit
+nvim
+lazygit
+nvim
